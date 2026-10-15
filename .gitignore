@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.railway/
+*.log
+.python-version
+.mypy_cache/
+.pytest_cache/
